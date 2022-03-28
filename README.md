@@ -1,4 +1,6 @@
-This page contains : 
-webost mavic drone manual control
-Generate trajectory dataset in webost
-data and video stream using socket in webost
+# Webost simulation applications
+
+This page contains : <br/> <br/>
+webost mavic drone manual control <br/>
+Generate trajectory dataset in webost <br/>
+data and video stream using socket in webost <br/>
