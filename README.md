@@ -10,11 +10,11 @@ data and video stream using socket in webost <br/>
 ### Run from webost
 controller/my_controller.py 
 
-![.manual_control_photo](https://github.com/KARAASLAN-AI/webost/blob/main/images/2022-04-05_15-41-55_AdobeCreativeCloudExpress.gif)
+![.manual_control_photo]()
 
 
 
-## Webost send İMU data with UDP port
+## Webost send İMU data with UDP
 
 ### Run read socket
 ``` python read_socket.py ```
@@ -22,7 +22,7 @@ controller/my_controller.py
 ### Run from webost
 controller/my_controller.py
 
-![.read_socket_imu_data](https://github.com/KARAASLAN-AI/webost/blob/main/images/2022-04-05_15-39-11_AdobeCreativeCloudExpress.gif)
+![.read_socket_imu_data]()
 
 
 ## Webost video stream with TCP 
@@ -34,5 +34,5 @@ controller/my_controller.py
 ### Run from webost
 controller/my_controller2.py
 
-![.video_stream](https://github.com/KARAASLAN-AI/webost/blob/main/images/2022-04-05_15-34-41_AdobeCreativeCloudExpress.gif)
+![.video_stream]()
 
