@@ -10,7 +10,7 @@ data and video stream using socket in webost <br/>
 ### Run from webost
 controller/my_controller.py 
 
-![.manual_control_photo]()
+![.manual_control_photo](https://github.com/KARAASLAN-AI/webost/blob/main/images/ezgif.com-gif-maker%20(2).gif)
 
 
 
@@ -22,7 +22,7 @@ controller/my_controller.py
 ### Run from webost
 controller/my_controller.py
 
-![.read_socket_imu_data]()
+![.read_socket_imu_data](https://github.com/KARAASLAN-AI/webost/blob/main/images/read_cos.gif)
 
 
 ## Webost video stream with TCP 
@@ -34,5 +34,5 @@ controller/my_controller.py
 ### Run from webost
 controller/my_controller2.py
 
-![.video_stream]()
+![.video_stream](https://github.com/KARAASLAN-AI/webost/blob/main/images/strea%C3%B6.gif)
 
