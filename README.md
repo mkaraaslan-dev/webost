@@ -13,7 +13,6 @@ controller/my_controller.py
 ![.manual_control_photo](https://github.com/KARAASLAN-AI/webost/blob/main/images/ezgif.com-gif-maker%20(2).gif)
 
 
-
 ## Webost send İMU data with UDP
 
 ### Run read socket
